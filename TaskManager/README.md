@@ -1,2 +1,0 @@
-# BextTeste
-Teste Backend Bext
