@@ -39,9 +39,6 @@
     "isolatedModules": true,
     "noUncheckedSideEffectImports": true,
     "moduleDetection": "force",
-    "skipLibCheck": true,
-    "scripts": {
-      "dev": "ts-node-dev --respawn --transpile-only src/server.ts"
-    }
+    "skipLibCheck": true
   }
 }
